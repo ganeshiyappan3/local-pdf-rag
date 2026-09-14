@@ -44,7 +44,7 @@ Final Answer
 
 RAG/
 ├── Data/
-│   └── deeplearning.pdf
+│   └── deeplearning.pdf  # Add your own PDF here
 ├── main.py
 ├── requirements.txt
 ├── README.md
